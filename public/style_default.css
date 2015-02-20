@@ -1,0 +1,14 @@
+/* Write your CSS styles here */
+
+body {
+  background: #4B3832;
+}
+
+
+h1 {
+  font-family:'Questrial';
+  color:white;
+  text-align:center;
+  margin-top: 250px;
+  font-size: 40px;
+}

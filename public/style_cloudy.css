@@ -9,7 +9,9 @@ p {
 }
 
 h1 {
-	font-family:'questrial';
+	font-family:'Questrial';
 	color:white;
 	text-align:center;
+	margin-top: 250px;
+	font-size: 40px;
 }
